@@ -6,7 +6,7 @@ This mode provides syntax coloring for the Django Template language in the Panic
 Installation in Panic Coda
 --------------------------
 
-Clone the repository into `~/Library/Application\ Support/Coda\ 2/Modes/`. 
+Clone the repository into Coda 2's Modes directory: 
 
     $ cd ~/Library/Application\ Support/Coda\ 2/Modes/; git clone git://github.com/jbergantine/django-template.mode.git
 
