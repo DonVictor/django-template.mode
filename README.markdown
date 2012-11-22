@@ -1,12 +1,16 @@
 Django Template Mode for Panic Coda 2.0
 =======================================
 
-This mode provides syntax coloring for the Django Template language in the Panic Coda 2.0 text editors. 
+This mode provides syntax coloring for the Django Template language in the Panic Coda 2.0 text editor. For Coda 1.x use https://github.com/jbergantine/Django-Template instead.
 
 Installation in Panic Coda
 --------------------------
 
-Download and unpack either the ZIP or TAR version of the Django-Template mode. Manually copy the Django-Template.mode file into `~/Library/Application\ Support/Coda\ 2/Modes/` (you can navigate to this directory by opening a Finder window, navigating to your user account's Home folder and then preceding into Library > Application Support > Coda 2 > Modes).
+Clone the repository into `~/Library/Application\ Support/Coda\ 2/Modes/`. 
+
+    $ cd ~/Library/Application\ Support/Coda\ 2/Modes/; git clone git://github.com/jbergantine/django-template.mode.git
+
+Restart Coda.
 
 Miscellaneous Files
 -------------------
