@@ -62,7 +62,9 @@
 					<string>endifchanged</string>
 					<string>endifequal</string>
 					<string>endifnotequal</string>
+					<string>endlocaltime</string>
 					<string>endspaceless</string>
+					<string>endtimezone</string>
 					<string>endwith</string>
 					<string>extends</string>
 					<string>filter</string>
@@ -75,11 +77,13 @@
 					<string>in</string>
 					<string>include</string>
 					<string>load</string>
+					<string>localtime</string>
 					<string>now</string>
 					<string>regroup</string>
 					<string>spaceless</string>
 					<string>ssi</string>
 					<string>templatetag</string>
+					<string>timezone</string>
 					<string>url</string>
 					<string>widthratio</string>
 					<string>with</string>
